@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning CSS & Javascript.
 - 📫 Reach me at goran.kolar7@gmail.com
 
-Will update the profile when I have time, currently very busy with learning! 
+Currently following a very good JavaScript course and building small projects along that.
 
 <!---
 GoranK89/GoranK89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
