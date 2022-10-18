@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Goran!
-- 🌱 I’m currently learning JavaScript & C#.
 - 📫 Reach me at goran.kolar7@gmail.com
 
 
