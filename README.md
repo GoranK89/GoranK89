@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Goran!
+- Currently I'm learning web development and some Unity C# programming
 - 📫 Reach me at goran.kolar7@gmail.com
 
 
