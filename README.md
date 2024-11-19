@@ -29,7 +29,7 @@
 ---
 
 ### 📈 GitHub Stats
-![Goran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goran-kolar&show_icons=true&theme=radical)
+![Goran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GoranK89&show_icons=true&theme=radical)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoranK89)]([https://github.com/GoranK89/GoranK89/edit/main/README.md])
